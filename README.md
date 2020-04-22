@@ -1,3 +1,3 @@
-#Competitive-Programming-Training
+Competitive-Programming-Training
 ===========================
-##NTHU 2017 
+NTHU 2017 
